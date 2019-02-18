@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MatchMaking</string>
+    <string name="user_list">user list</string>
+    <string name="candidate_match">Candidates for Match</string>
+    <string name="loading_users">Loading Users....</string>
+    <string name="phone">Phone: %s</string>
+    <string name="email">Email: %s</string>
+    <string name="age">Age: %s</string>
+</resources>
